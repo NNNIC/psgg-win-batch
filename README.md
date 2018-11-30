@@ -24,3 +24,7 @@ exec.bat - run batch.
 
 ![](https://raw.githubusercontent.com/NNNIC/psgg-win-batch/master/wiki/sample.png)
 
+# LOOP SAMPLE
+
+![](https://raw.githubusercontent.com/NNNIC/psgg-win-batch/master/wiki/loop.png)
+
