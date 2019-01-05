@@ -1,15 +1,15 @@
 # psgg-win-batch
-SYN-G-GEN Windows batch sample
+StateGo Windows batch sample
 
 # ENVIRONMENT
 Windows  
-SYN-G-GEN http://syn-g-gen.com
+StateGo https://statego.programanic.com
 
 # INSTRUCTION
 
 1. Change the current directory to "playground" in this git copy.  
   If a statemachine exists, run clean.bat  
-2. Start SYN-G-GEN.  
+2. Start StateGo.  
 3. Set "TestControl" as the statemachine name.  
 4. Set "playground/doc" as doc folder.  
 5. Set "playground/src" as src folder.  
